@@ -1,7 +1,4 @@
-# pixi-typescript-boilerplate
-
-Based on webpack-starter-kit-pixijs
-https://github.com/jasesnider/webpack-starter-kit-pixijs
+# Pixi interactive anitations with gsap and typescript
 
 Webpack here is supports hot reloading and typescript
 
