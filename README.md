@@ -6,6 +6,11 @@ If you got an error about 'module not found', please check *@types* for this mod
 
 Also don't forget to add unusable file types into the *.gitignore*
 
-Steps:
+Steps to make development mode build with hot reloading:
 1. npm i
 2. npm start
+
+
+Steps to make production build
+1. npm i
+2. npm run-script build
